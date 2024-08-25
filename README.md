@@ -1,3 +1,4 @@
+https://consoleflareanalytics.streamlit.app/  (Link for the deployed app)
 Consoleflare Analytics Portal
 📊 Consoleflare Analytics Portal is a web-based application built using Streamlit, Pandas, and Plotly. This portal allows users to easily upload datasets, explore basic statistics, and visualize the data through interactive charts and graphs.
 
